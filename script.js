@@ -1,4 +1,3 @@
-
 function setElementsInnerHTML(nodes, value){
     for (let i = 0; i < nodes.length; i++) {
         nodes[i].innerHTML= value;
