@@ -9,4 +9,4 @@ Screenshots
 
 Installation
 --
-Instead of installing this extension from the source, an easy and simple way is to install directly it from [chrome store](https://chrome.google.com/webstore/detail/mypip-my-public-ip-addres/bopoaoiaadnlkighaiggaakhmdgechcm/related?hl=en&authuser=0).
+Instead of installing this extension from the source, an easy and simple way is to install it directly from [chrome store](https://chrome.google.com/webstore/detail/mypip-my-public-ip-addres/bopoaoiaadnlkighaiggaakhmdgechcm/related?hl=en&authuser=0).
